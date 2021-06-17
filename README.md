@@ -1,4 +1,4 @@
-# Structural templates for imaging EEG cortical sources in infants
+# Computing Realistic Surrogate EEG for the Study of Functional Connectivity
 
 This repository contains the code used to prepare the conference paper entitled "Computing Realistic Surrogate EEG for the Study of Functional Connectivity" 
 currently available as a [preprint](https://psyarxiv.com/uezdy/). This paper will be presented at the 2021 IEEE-EMBS International Conference on 
